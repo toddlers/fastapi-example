@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+starlette
+jinja2
+pydantic
+httpx
